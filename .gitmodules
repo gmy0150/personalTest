@@ -1,0 +1,3 @@
+[submodule "personaltrainingTest"]
+    path = personaltrainingTest
+    url = https://github.com/username/personaltrainingTest
